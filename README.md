@@ -1,6 +1,6 @@
 # tabelasDeBingo
 Trabalho para a faculdade.
-Onde eu teria que criar cartelas com números aleatórios para a realização de um bingo.
+Onde eu teria que criar um algoritmo em linguagem C, que desenvolvesse cartelas com números aleatórios para a realização de um bingo.
 
 ## Entrada:
 O sistema pede para o usuário inserir a quantidade de tabelas que deseja.
